@@ -1,3 +1,7 @@
+UPDATE: FreeBird is no longer. But <a href="https://github.com/publicdomaincompany/scroll/issues/12">Scroll</a>
+will be the phoenix from FreeBird's ashes and solve this problem.
+
+
 # freebird
 
 FreeBird hedges your dependency on Twitter.
